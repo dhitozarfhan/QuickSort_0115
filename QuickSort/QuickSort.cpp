@@ -92,6 +92,10 @@ void display()
 	cout << "number of data movement : " << mov_count << endl;
 }
 
+int main()
+{
+	char ch;
+	do {
 
 
 
